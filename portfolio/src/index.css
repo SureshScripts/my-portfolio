@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://res.cloudinary.com/ddu2xhktf/image/upload/v1761556232/v1016-b-09_oocwh8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.home-img{
+  filter: blur(3px);
+  
+}
+
+.home-img:hover {
+  filter: blur(0px);
+  border: 2px solid rgb(85, 17, 194);
+}
+.imgg:hover{
+    border: 2px solid rgb(85, 17, 194); 
+}
+h1{
+    color: white;
+}
+h1:hover{
+    color:rgba(5, 42, 252, 0.719);
+}
+
+h1:hover{
+    transform: scale(1.01);
+}
+
+
+p:hover{
+   color:rgba(5, 42, 252, 0.719);
+}
